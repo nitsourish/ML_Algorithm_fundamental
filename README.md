@@ -7,10 +7,10 @@ ML_Algorithm_fundamental
 ├── README.md                                     # README file          
 |──ML_algo.ipynb                                  # Jupyter notebook(includes all the algorithms)                                                       
 src
-│   ├── __init__.py                               # init file
+│   ├── kmeans.py                                 # KMEANS clustering
 │   ├── ANN.py                                    # Neural Network(perceptron)
-│   ├── knn.py                                    # Logistic Regression(KNN)
-│   ├── NB_multinomial.py                         # Naive Bayes
+│   ├── knn.py                                    # k-nearest neighbors
+│   ├── NB_multinomial.py                         # Mulinomial Naive Bayes
 │   ├── regression_tree.py                        # Decision Tree(Regression- RPART)
 tests
 │   ├── test_algo.py                              #pytest with all the test cases
