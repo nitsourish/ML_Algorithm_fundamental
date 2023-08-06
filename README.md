@@ -1,7 +1,7 @@
 # ML_Algorithm_fundamental
 ML Algorithm implementation from scrach
 
-#folder structure
+## folder structure
 ```
 ML_Algorithm_fundamental
 ├── README.md                                     # README file          
@@ -16,7 +16,7 @@ tests
 │   ├── test_algo.py                              #pytest with all the test cases
 ```
 
-# How to run
+## How to run
 ```
 pytest -v
 ```
