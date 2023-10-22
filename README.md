@@ -12,6 +12,7 @@ src
 │   ├── knn.py                                    # k-nearest neighbors
 │   ├── NB_multinomial.py                         # Mulinomial Naive Bayes
 │   ├── regression_tree.py                        # Decision Tree(Regression- RPART)
+    ├── vending_machine.py                        # Vending Machine Design(LLD)
 tests
 │   ├── test_algo.py                              #pytest with all the test cases
 ```
